@@ -60,7 +60,10 @@ namespace JustinCredible.PacEmu
                     var message = $"The CRC32 checksum for '{romFile.Description}' ROM file '{romFile.FileName}'{alternateFileNameMessage} at the location: {path} was calculated as '{checksum}', but we are expecting '{romFile.CRC32}'.";
 
                     if (enforceValidChecksum)
-                        throw new Exception(message);
+                    {
+                        //throw new Exception(message);
+                        Console.WriteLine($"[WARNING] {message}");
+                    }
                     else
                         Console.WriteLine($"[WARNING] {message}");
                 }

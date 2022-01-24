@@ -7,15 +7,15 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="71f50e34-3987-40e4-bb65-a171b6a442f5"
-    Publisher="CN=Justin-Credible"
+    Name="z80pacmanemu"
+    Publisher="CN=media"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="71f50e34-3987-40e4-bb65-a171b6a442f5" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>Z80 / Pac-Man Emulator</DisplayName>
-    <PublisherDisplayName>Justin Unterreiner</PublisherDisplayName>
+    <PublisherDisplayName>mediaexplorer</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
@@ -39,6 +39,9 @@
         BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" Square71x71Logo="Assets\SmallTile.png" Square310x310Logo="Assets\LargeTile.png"/>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />
+        <uap:InitialRotationPreference>
+          <uap:Rotation Preference="landscape"/>
+          <uap:Rotation Preference="landscapeFlipped"/></uap:InitialRotationPreference>
       </uap:VisualElements>
     </Application>
   </Applications>

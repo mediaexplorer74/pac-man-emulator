@@ -1,0 +1,13 @@
+C:\Users\media\source\repos\pac-man-emulator\disassembler\bin\Debug\netstandard2.0\disassembler.deps.json
+C:\Users\media\source\repos\pac-man-emulator\disassembler\bin\Debug\netstandard2.0\disassembler.dll
+C:\Users\media\source\repos\pac-man-emulator\disassembler\bin\Debug\netstandard2.0\disassembler.pdb
+C:\Users\media\source\repos\pac-man-emulator\disassembler\bin\Debug\netstandard2.0\z80.dll
+C:\Users\media\source\repos\pac-man-emulator\disassembler\bin\Debug\netstandard2.0\z80.pdb
+C:\Users\media\source\repos\pac-man-emulator\disassembler\obj\Debug\netstandard2.0\disassembler.csproj.AssemblyReference.cache
+C:\Users\media\source\repos\pac-man-emulator\disassembler\obj\Debug\netstandard2.0\disassembler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\media\source\repos\pac-man-emulator\disassembler\obj\Debug\netstandard2.0\disassembler.AssemblyInfoInputs.cache
+C:\Users\media\source\repos\pac-man-emulator\disassembler\obj\Debug\netstandard2.0\disassembler.AssemblyInfo.cs
+C:\Users\media\source\repos\pac-man-emulator\disassembler\obj\Debug\netstandard2.0\disassembler.csproj.CoreCompileInputs.cache
+C:\Users\media\source\repos\pac-man-emulator\disassembler\obj\Debug\netstandard2.0\disassembler.csproj.CopyComplete
+C:\Users\media\source\repos\pac-man-emulator\disassembler\obj\Debug\netstandard2.0\disassembler.dll
+C:\Users\media\source\repos\pac-man-emulator\disassembler\obj\Debug\netstandard2.0\disassembler.pdb

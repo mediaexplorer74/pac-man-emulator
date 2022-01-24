@@ -20,11 +20,12 @@ namespace JustinCredible.PacEmu.UWP
         {
             Emulator.Start(new EmulatorConfig()
             {
-                RomPath = ".\\roms\\pacman",
-                RomSet = ROMSet.PacMan,
+                // Some tests =)
+                //RomPath = ".\\roms\\pacman",
+                //RomSet = ROMSet.PacMan,
 
-                //RomPath = ".\\roms\\mspacman",
-                //RomSet = ROMSet.MsPacMan,
+                RomPath = ".\\roms\\mspacman",
+                RomSet = ROMSet.MsPacMan,
             });
 
             return 0;

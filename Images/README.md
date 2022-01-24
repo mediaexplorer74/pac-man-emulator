@@ -2,21 +2,13 @@
 
 ![.NET Core](https://github.com/Justin-Credible/pac-man-emulator/workflows/.NET%20Core/badge.svg)
 
-An emulator for the [Zilog Z80](https://en.wikipedia.org/wiki/Zilog_Z80) CPU and hardware specific to the 1980 arcade game: Pac-Man. 
-It will also run Ms. Pac-Man, as well as any other homebrew ROMs that target the Pac-Man hardware. =)
+An emulator for the [Zilog Z80](https://en.wikipedia.org/wiki/Zilog_Z80) CPU and hardware specific to the 1980 arcade game: Pac-Man. It will also run Ms. Pac-Man, as well as any other homebrew ROMs that target the Pac-Man hardware.
 
-## My 2 cents
-Assembling for PC Platfowm (Win 10 19041)
-
-## Screenshots
-![showcase](Images/Shot1.png)
-
-
-## Tech details
 This is based on the Intel 8080 CPU core from my [Space Invaders emulator](https://github.com/Justin-Credible/space-invaders-emulator).
 
 It emulates the graphics and sound, supports save states, has an interactive debugger, has reverse-stepping functionality, and includes 8000+ unit test cases.
 
+![showcase](.readme/showcase.png)
 
 > Above: my emulator running Pac-Man, Ms. Pac-Man, and a homebrew [Matrix-effect ROM](http://umlautllama.com/projects/pacdocs/).
 
@@ -199,6 +191,3 @@ I found the following resources useful in building this emulator:
 * Misc
   * [8-Bit Workshop](https://8bitworkshop.com/)
   * [Let there be sound](https://nicolasallemand.com/2019/12/12/let-there-be-sound/)
-
-
--- me 2022

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T+8fnK01II1q0kQ6gbJ/q6vKFPiVpLDlfyjh+lcnKROZ3AMNsLBuwtpkj24KNqh0UjB2t5dpg2JnHMu+idxpbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\media\\source\\repos\\pac-man-emulator\\z80\\z80.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\media\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\media\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

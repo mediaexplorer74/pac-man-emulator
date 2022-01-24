@@ -1,0 +1,10 @@
+C:\Users\media\source\repos\pac-man-emulator\z80\bin\Debug\netstandard2.0\z80.deps.json
+C:\Users\media\source\repos\pac-man-emulator\z80\bin\Debug\netstandard2.0\z80.dll
+C:\Users\media\source\repos\pac-man-emulator\z80\bin\Debug\netstandard2.0\z80.pdb
+C:\Users\media\source\repos\pac-man-emulator\z80\obj\Debug\netstandard2.0\z80.csproj.AssemblyReference.cache
+C:\Users\media\source\repos\pac-man-emulator\z80\obj\Debug\netstandard2.0\z80.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\media\source\repos\pac-man-emulator\z80\obj\Debug\netstandard2.0\z80.AssemblyInfoInputs.cache
+C:\Users\media\source\repos\pac-man-emulator\z80\obj\Debug\netstandard2.0\z80.AssemblyInfo.cs
+C:\Users\media\source\repos\pac-man-emulator\z80\obj\Debug\netstandard2.0\z80.csproj.CoreCompileInputs.cache
+C:\Users\media\source\repos\pac-man-emulator\z80\obj\Debug\netstandard2.0\z80.dll
+C:\Users\media\source\repos\pac-man-emulator\z80\obj\Debug\netstandard2.0\z80.pdb

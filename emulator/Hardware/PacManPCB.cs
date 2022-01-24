@@ -525,7 +525,10 @@ namespace JustinCredible.PacEmu
                 if (AllowWritableROM)
                     _memory[address] = value;
                 else
-                    throw new Exception(String.Format("Unexpected write to ROM region (0x0000 - 0x3FFF): {0:X4}", address));
+                {
+                    Console.WriteLine("Unexpected write to ROM region (0x0000 - 0x3FFF): {0:X4}" + address.ToString());
+                    //throw new Exception(String.Format("Unexpected write to ROM region (0x0000 - 0x3FFF): {0:X4}", address));
+                }
             }
             else if (address >= 0x4000 && address <= 0x4FFF)
             {

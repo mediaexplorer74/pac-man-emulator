@@ -1,0 +1,15 @@
+C:\Users\media\source\repos\pac-man-emulator\emulator\bin\Debug\netstandard2.0\emulator.deps.json
+C:\Users\media\source\repos\pac-man-emulator\emulator\bin\Debug\netstandard2.0\emulator.dll
+C:\Users\media\source\repos\pac-man-emulator\emulator\bin\Debug\netstandard2.0\emulator.pdb
+C:\Users\media\source\repos\pac-man-emulator\emulator\bin\Debug\netstandard2.0\disassembler.dll
+C:\Users\media\source\repos\pac-man-emulator\emulator\bin\Debug\netstandard2.0\z80.dll
+C:\Users\media\source\repos\pac-man-emulator\emulator\bin\Debug\netstandard2.0\z80.pdb
+C:\Users\media\source\repos\pac-man-emulator\emulator\bin\Debug\netstandard2.0\disassembler.pdb
+C:\Users\media\source\repos\pac-man-emulator\emulator\obj\Debug\netstandard2.0\emulator.csproj.AssemblyReference.cache
+C:\Users\media\source\repos\pac-man-emulator\emulator\obj\Debug\netstandard2.0\emulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\media\source\repos\pac-man-emulator\emulator\obj\Debug\netstandard2.0\emulator.AssemblyInfoInputs.cache
+C:\Users\media\source\repos\pac-man-emulator\emulator\obj\Debug\netstandard2.0\emulator.AssemblyInfo.cs
+C:\Users\media\source\repos\pac-man-emulator\emulator\obj\Debug\netstandard2.0\emulator.csproj.CoreCompileInputs.cache
+C:\Users\media\source\repos\pac-man-emulator\emulator\obj\Debug\netstandard2.0\emulator.csproj.CopyComplete
+C:\Users\media\source\repos\pac-man-emulator\emulator\obj\Debug\netstandard2.0\emulator.dll
+C:\Users\media\source\repos\pac-man-emulator\emulator\obj\Debug\netstandard2.0\emulator.pdb
